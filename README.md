@@ -41,7 +41,7 @@
 
 ### 🏗️ Featured Work
 
-- 🛠️ **[AI Engineer Roadmap](https://github.com/ravi3044/ai-engineer-roadmap)** — 6-month self-learning path to build modern AI systems  
+- 🧭 **[AI Engineer Roadmap](https://github.com/ravi3044/ai-engineer-roadmap)** — 6-month self-learning plan to build modern AI systems 
 - 📊 **[alpha-analyst](https://github.com/ravi3044/alpha-analyst)** — LLM + Python sandbox for data-driven insights  
 - 💬 **[orbit-chat](https://github.com/ravi3044/orbit-chat)** — lightweight chat app using FastAPI + Ollama  
 
