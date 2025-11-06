@@ -49,10 +49,9 @@
 
 ### 🌱 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/vardhi-ravichandra-51043b208)  
 - 🧰 [Portfolio (coming soon)](https://ravi3044.github.io)  
-- 🐦 [X / Twitter](https://twitter.com/yourhandle)  
-- 📫 Reach me: **ravi.vardhi@oaknorth.co.uk** (professional)
+- 📫 Reach me: **ravichandravardhi44@gmail.com** (professional)
 
 ---
 
